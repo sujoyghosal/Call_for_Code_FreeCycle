@@ -59,7 +59,7 @@ Whenever a donation or need is created that satisfies the user’s criteria, he 
 Users can query by item type, within a geographic radius or events of their interest as specified in the subscription model
 User subscriptions, events for donation/needs are stored in Mongo DB as JSON schemas
 The platform allows for requesting for generic household needs like food, clothing, furniture, mobile, electronics etc and can also be used for broadcasting emergency needs like blook, relief items etc.
-<img width="1190" alt="image" src="https://drive.google.com/file/d/1I8lG5iHU5sO38yHkOucSC6skvBYGdb_6/view?usp=share_link">
+<img width="1190" alt="image" src="https://github.com/sujoyghosal/Call_for_Code_FreeCycle/blob/main/images/FreeCycle%20Architecture.jpg">
 
 
 
