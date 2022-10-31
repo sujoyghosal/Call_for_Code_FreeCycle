@@ -47,7 +47,7 @@ The platform connects donors to need in real time. Users can publish and need or
 
 ## Demo video
 
-[![Watch the video](https://youtu.be/p11q0q_pEyA)](https://drive.google.com/file/d/1Y0iowbwrD11fTDCJ6Ds8r9pfU6YF3MTV/view?usp=share_link)
+[![Watch the video][(https://youtu.be/p11q0q_pEyA)]
 
 ## The architecture
 
@@ -59,7 +59,7 @@ Whenever a donation or need is created that satisfies the user’s criteria, he 
 Users can query by item type, within a geographic radius or events of their interest as specified in the subscription model
 User subscriptions, events for donation/needs are stored in Mongo DB as JSON schemas
 The platform allows for requesting for generic household needs like food, clothing, furniture, mobile, electronics etc and can also be used for broadcasting emergency needs like blook, relief items etc.
-<img width="1190" alt="image" src="https://drive.google.com/file/d/1I8lG5iHU5sO38yHkOucSC6skvBYGdb_6/view?usp=share_link">
+<img width="1190" alt="image" src="[https://drive.google.com/file/d/1I8lG5iHU5sO38yHkOucSC6skvBYGdb_6/view?usp=share_link](https://drive.google.com/file/d/1I8lG5iHU5sO38yHkOucSC6skvBYGdb_6/view?usp=share_link)">
 
 
 
