@@ -1,6 +1,6 @@
 # FreeCycle
 
-Sample Demo URL: http://159.122.177.104:31363
+
 
 A basic GitHub repository example for new [Call for Code](https://developer.ibm.com/callforcode/) projects and those that join the Call for Code with The Linux Foundation deployment initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need. And don't forget to [join the Call for Code community](https://developer.ibm.com/callforcode/solutions/projects/get-started/).
 
@@ -47,15 +47,20 @@ The platform connects donors to need in real time. Users can publish and need or
 
 ## Demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://drive.google.com/file/d/1Y0iowbwrD11fTDCJ6Ds8r9pfU6YF3MTV/view?usp=share_link)
+[![Watch the video](https://drive.google.com/file/d/1qkcfQH_-OszDWPnL7RDihl2BJneAKdsk/view?usp=share_link)](https://drive.google.com/file/d/1Y0iowbwrD11fTDCJ6Ds8r9pfU6YF3MTV/view?usp=share_link)
 
 ## The architecture
 
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+Users can list items of interest for donating or seek donations by listing their needs
+Users can browse needs and choose to donate that item or browse donations and choose to accept an offer if the item is still available
+Users can subscribe for events on items of interest, geographic location, vicinity within a geographic location, select from a category of items
+Whenever a donation or need is created that satisfies the user’s criteria, he gets a notification real time
+Users can query by item type, within a geographic radius or events of their interest as specified in the subscription model
+User subscriptions, events for donation/needs are stored in Mongo DB as JSON schemas
+The platform allows for requesting for generic household needs like food, clothing, furniture, mobile, electronics etc and can also be used for broadcasting emergency needs like blook, relief items etc.
+<img width="1190" alt="image" src="https://drive.google.com/file/d/1I8lG5iHU5sO38yHkOucSC6skvBYGdb_6/view?usp=share_link">
+
 
 ## Long description
 
@@ -65,9 +70,9 @@ The platform connects donors to need in real time. Users can publish and need or
 
 The project currently does the following things.
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Blockchain transaction tracing
+- Aadhar and Govt database authentications and user profiles
+- Third party APIs and Ecosystem integration
 
 It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 
@@ -79,45 +84,29 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 
 In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks)
+- [sample-angular-app](./Web/)
+- [sample-angular-app](./API/)
+
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+You can find a running system to test at [callforcode.mybluemix.net]([http://callforcode.mybluemix.net/](http://159.122.177.104:31363)).
 
 See the "long description" field in our submission (not in this repo) for the log-in credentials.
 
 ## Built with
 
-- [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+IBM Kubernetes Clsuter
+IBM DevOPs Toolchain
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+<a href="[https://github.com/Call-for-Code/Project-Sample/graphs/contributors](https://github.com/sujoyghosal/Call_for_Code_FreeCycle)">
+  <img src="[https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample](https://github.com/sujoyghosal/Call_for_Code_FreeCycle)" />
 </a>
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
