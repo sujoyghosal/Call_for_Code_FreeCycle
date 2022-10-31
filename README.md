@@ -81,7 +81,7 @@ It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run o
 In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
 - [sample-angular-app](https://github.com/sujoyghosal/Call_for_Code_FreeCycle/tree/main/Web)
-- [sample-angular-app](https://github.com/sujoyghosal/Call_for_Code_FreeCycle/tree/main/API)
+- [sample-Nodejs-app](https://github.com/sujoyghosal/Call_for_Code_FreeCycle/tree/main/API)
 
 
 ## Live demo
@@ -91,9 +91,13 @@ You can find a running system to test at [callforcode.mybluemix.net]([http://cal
 See the "long description" field in our submission (not in this repo) for the log-in credentials.
 
 ## Built with
+App is running on IBM Cloud leveraging the following services:
 
-IBM Kubernetes Clsuter
+IBM Kubernetes Cluster
+Docker Containers
 IBM DevOPs Toolchain
+IBM Toolchain Slack Integration
+MongoDB
 
 
 ## Authors
