@@ -76,28 +76,20 @@ It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run o
 
 
 
-## Getting started
-
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-- [sample-angular-app](./Web/)
-- [sample-Nodejs-app](./API/)
-
-
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net]([http://callforcode.mybluemix.net/](http://159.122.177.104:31363)).
+You can find a running system to test at [http://159.122.177.104:31363](http://159.122.177.104:31363)
 
-See the "long description" field in our submission (not in this repo) for the log-in credentials.
+
 
 ## Built with
 App is running on IBM Cloud leveraging the following services:
 
-IBM Kubernetes Cluster
-Docker Containers
-IBM DevOPs Toolchain
-IBM Toolchain Slack Integration
-MongoDB
+- IBM Kubernetes Cluster
+- Docker Containers
+- IBM DevOPs Toolchain
+- IBM Toolchain Slack Integration
+- MongoDB
 
 
 ## Authors
