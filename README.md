@@ -80,8 +80,8 @@ It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run o
 
 In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-- [sample-angular-app](https://github.com/sujoyghosal/Call_for_Code_FreeCycle/tree/main/Web)
-- [sample-Nodejs-app](https://github.com/sujoyghosal/Call_for_Code_FreeCycle/tree/main/API)
+- [sample-angular-app](./Web/)
+- [sample-Nodejs-app](./API/)
 
 
 ## Live demo
