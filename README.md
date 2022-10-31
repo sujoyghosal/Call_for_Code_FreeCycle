@@ -59,7 +59,7 @@ Whenever a donation or need is created that satisfies the user’s criteria, he 
 Users can query by item type, within a geographic radius or events of their interest as specified in the subscription model
 User subscriptions, events for donation/needs are stored in Mongo DB as JSON schemas
 The platform allows for requesting for generic household needs like food, clothing, furniture, mobile, electronics etc and can also be used for broadcasting emergency needs like blook, relief items etc.
-<img width="1190" alt="image" src="[https://drive.google.com/file/d/1I8lG5iHU5sO38yHkOucSC6skvBYGdb_6/view?usp=share_link](https://drive.google.com/file/d/1I8lG5iHU5sO38yHkOucSC6skvBYGdb_6/view?usp=share_link)">
+<img width="1190" alt="image" src="https://drive.google.com/file/d/1I8lG5iHU5sO38yHkOucSC6skvBYGdb_6/view?usp=share_link">
 
 
 
@@ -80,8 +80,8 @@ It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run o
 
 In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
-- [sample-angular-app](./Web/)
-- [sample-angular-app](./API/)
+- [sample-angular-app](https://github.com/sujoyghosal/Call_for_Code_FreeCycle/tree/main/Web)
+- [sample-angular-app](https://github.com/sujoyghosal/Call_for_Code_FreeCycle/tree/main/API)
 
 
 ## Live demo
