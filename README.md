@@ -47,7 +47,7 @@ The platform connects donors to need in real time. Users can publish and need or
 
 ## Demo video
 
-[![Watch the video](https://drive.google.com/file/d/1qkcfQH_-OszDWPnL7RDihl2BJneAKdsk/view?usp=share_link)](https://drive.google.com/file/d/1Y0iowbwrD11fTDCJ6Ds8r9pfU6YF3MTV/view?usp=share_link)
+[![Watch the video](https://youtu.be/p11q0q_pEyA)](https://drive.google.com/file/d/1Y0iowbwrD11fTDCJ6Ds8r9pfU6YF3MTV/view?usp=share_link)
 
 ## The architecture
 
@@ -62,9 +62,7 @@ The platform allows for requesting for generic household needs like food, clothi
 <img width="1190" alt="image" src="https://drive.google.com/file/d/1I8lG5iHU5sO38yHkOucSC6skvBYGdb_6/view?usp=share_link">
 
 
-## Long description
 
-[More detail is available here](./docs/DESCRIPTION.md)
 
 ## Project roadmap
 
@@ -76,9 +74,7 @@ The project currently does the following things.
 
 It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 
-See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
-![Roadmap](./images/roadmap.jpg)
 
 ## Getting started
 
