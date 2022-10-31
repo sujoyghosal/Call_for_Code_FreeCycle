@@ -1,6 +1,6 @@
 # FreeCycle
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/solutions/projects/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/)
+Sample Demo URL: http://159.122.177.104:31363
 
 A basic GitHub repository example for new [Call for Code](https://developer.ibm.com/callforcode/) projects and those that join the Call for Code with The Linux Foundation deployment initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need. And don't forget to [join the Call for Code community](https://developer.ibm.com/callforcode/solutions/projects/get-started/).
 
@@ -35,23 +35,22 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time, keeping them engaged, entertained, and on top of their education is important.
+A lot of needs of underprivileged communities can be served by providing a platform of trust and openness that encourages general public to happily fulfil these needs through a culture of donation ans daily habit. Lack of a patform of trust and openness inhibits the helping culture even when people are willing to help.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+End to end tracable digital platform where each donation can be traced to the ultimate recipient. Real time notification of events of interest so needs can be catered to real time. Internet scale so needs can be fulfilled from across the globe not just locally. Platform of trust and openness collaborating with Govt agencies, public data and APIs for authentication and economic segmentation, funding from corporates and part of ESG initiatives can create an ecosystem of trust and benevolence where people will feel happy to be able to help underprivileged with full confidence and visibility of transactions stored in blockchain and tracability end to end from donor to receiver. Platform can essentially help alleviate poverty and immediate needs by its global scale and real time functionality, including peer-to-peer real time money transfer, collaboration with delivery partners etc. Corporates woul;d be happy to be associated with such a platform for brand enhancement and social impact.
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+The platform connects donors to need in real time. Users can publish and need or a donation offer and including basic details and location info. Platform provides features to browse needs in a city or within a geographic radius and fulfil those needs real time leveraging ecosystem of partners like delivery agencies, real time P2P money transfer etc. Users can also cater to any need in any part of the world. Users can also subscrive to events of inetersts e.g. they can tell the platform to notify them of needs arising within 20km of their home area for categories like food, clothes, medicines, electronics etc and get real time notifications of those events. Cloud Mongo DB NoSQL datastore curently used is highly efficient and scalable, front end is using AngularJS and backend APIs written in Node.js. WebSocket channels are maintained for real time notifications.
 
 ## Demo video
 
-[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://drive.google.com/file/d/1Y0iowbwrD11fTDCJ6Ds8r9pfU6YF3MTV/view?usp=share_link)
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
