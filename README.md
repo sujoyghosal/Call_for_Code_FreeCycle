@@ -41,7 +41,7 @@ The platform connects donors to need in real time. Users can publish and need or
 
 ## Demo video
 
-[![Watch the video][(https://drive.google.com/file/d/1tCwapobnB46xPG-VhDpfJCXAIWuNBcKd/view?usp=share_link)]
+Watch the video [(https://drive.google.com/file/d/1tCwapobnB46xPG-VhDpfJCXAIWuNBcKd/view?usp=share_link)]
 
 ## The architecture
 
