@@ -88,9 +88,9 @@ App is running on IBM Cloud leveraging the following services:
 
 ## Authors
 
-<a href="[https://github.com/Call-for-Code/Project-Sample/graphs/contributors](https://github.com/sujoyghosal/Call_for_Code_FreeCycle)">
-  <img src="[https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample](https://github.com/sujoyghosal/Call_for_Code_FreeCycle)" />Sujoy Ghosal
-</a>
+Sujoy Ghosal
+sujoy.ghosal@gds.ey.com
+
 
 ## License
 
